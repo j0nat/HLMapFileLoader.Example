@@ -12,6 +12,6 @@ Example of how to implement and use the HLMapFileLoader project to load a simple
 
 
 
-**Picture from larger .map file with some lighting effects**
+**Pictures from larger .map file with some lighting effects**
 ![Preview2](./Media/Preview2.png)
 ![Preview3](./Media/Preview3.png)
